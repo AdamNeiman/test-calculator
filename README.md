@@ -1,3 +1,5 @@
+# test-calculator
+
 to start applicarion:
 npm start
 
