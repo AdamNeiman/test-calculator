@@ -6,4 +6,4 @@ npm start
 to test application:
 npm test
 
-note: 2 tests don't work
+note: 2 tests don't work (on purpose)
